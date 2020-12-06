@@ -1,12 +1,8 @@
 # HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)
 
-***
-
 Solutions to the assignments of the Coursera course [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) by Johns Hopkins University.
 
 ## Assignments
-
-***
 
 ### Module 2
 
